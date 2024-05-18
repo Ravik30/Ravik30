@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Kr Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravik30&label=Profile%20views&color=0e75b6&style=flat" alt="ravik30" /> </p>
 
-- 🌱 I’m currently learning **js and java.**
+- 🌱 I’m currently learning **js and react.**
 
 - 👨‍💻 All of my projects are available at [https://ravik30.github.io/Portfolio-Website/](https://ravik30.github.io/Portfolio-Website/)
 
